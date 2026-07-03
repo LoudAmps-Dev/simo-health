@@ -1,0 +1,7 @@
+.DS_Store
+Thumbs.db
+*.env
+
+# Notas internas de trabajo — no son parte de la entrega para el cliente
+HANDOFF_SIMO_PROJECT.md
+MAIL_SOLICITUD_MATERIAL.md
